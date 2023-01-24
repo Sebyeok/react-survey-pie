@@ -36,7 +36,7 @@
 - react-router 
 <br>주소에 맞게 적절한 페이지를 로드하는 것, history 조작을 이용함.
 - react-router-dom(https://reactrouter.com/en/main)
-<br>BrowserRouter, Routes, Route
+<br>BrowserRouter, Routes, Route, useParams
 - styled-components(https://styled-components.com/)
 ```js
 const BodyWrapper = styled.div`
@@ -84,3 +84,8 @@ padding: 4px;
 1. 신뢰 가능한 단일 출처(Single source of truth)<br>
 2. 상태는 읽기 전용(State is read-only)<br>
 3. 리듀서는 순수 함수(Changes are made with pure functions)
+- Redux Devtools<br>
+Chrome 확장 프로그램으로, 로컬에서 Redux를 테스트 가능한 개발자 도구.
+- Redux Middleware(https://lunit.gitbook.io/redux-in-korean/advanced/middleware)<br>
+- React Devtools<br>
+Chrome 확장 프로그램으로, 로컬에서 React를 테스트 가능한 개발자 도구. 렌더링 확인에 유용함.
