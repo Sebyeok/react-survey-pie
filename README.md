@@ -21,7 +21,7 @@
 
 ## memo-project
 ![memo-project](/assets/memo-project.png)
-- react로 구현한 간단한 메모장 프로그램
+- react로 구현한 간단한 메모장 웹
 - 간단한 프로그램 설계 및 컴포넌트 구현 및 관리
 - useState 이용 - setter함수 및 렌더링 개념 기초
 - localStorage 이용
@@ -30,4 +30,8 @@
 ## survey-pie
 ![survey-pie_1](/assets/survey-pie_1.png)
 ![survey-pie_2](/assets/survey-pie_2.png)
-
+- react로 구현한 설문조사 웹.
+- 컴포넌트 구조 설계 및 구현, 관리.
+- react-router 개념(주소에 맞게 적절한 페이지를 로드하는 것, history 조작을 이용함.) 학습 및 적용
+- react-router-dom 이용.
+- `npm install react-router-dom --save` 
