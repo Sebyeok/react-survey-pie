@@ -20,8 +20,8 @@
 - Redux를 이용한 전역 상태 관리 방법
 
 ## memo-project
+- react로 구현한 간단한 메모장 웹.<br>
 ![memo-project](/assets/memo-project.png)
-- react로 구현한 간단한 메모장 웹
 - 간단한 프로그램 설계 및 컴포넌트 구현 및 관리
 - useState 이용 - setter함수 및 렌더링 개념 기초
 - localStorage 이용
