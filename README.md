@@ -52,3 +52,7 @@ padding: 4px;
 <br>get, post, put, delete
 - React에서 API 호출 과정
 ![react-api](/assets/react-api.png)
+- React에서 외부 데이터 관리
+![react-outside](/assets/react-outside.png)
+- 전역 Store에 API 연동
+![react-allparts](/assets/react-allparts.png)
