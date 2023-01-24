@@ -56,3 +56,7 @@ padding: 4px;
 ![react-outside](/assets/react-outside.png)
 - 전역 Store에 API 연동
 ![react-allparts](/assets/react-allparts.png)
+- 로컬 path 추출
+<br>`window.location.pathname`
+- react.Suspense
+<br>예외 처리. Suspense 안에 사용하는 데이터가 준비되지 않았을 때 fallback(loading 개념)
