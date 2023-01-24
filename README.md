@@ -40,7 +40,7 @@
 - styled-components(https://styled-components.com/)
 ```js
 const BodyWrapper = styled.div`
-background:aqua;
+background: #ffffff;
 padding: 4px;
 `;
 ```
