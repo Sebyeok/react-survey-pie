@@ -48,3 +48,7 @@ padding: 4px;
 - Custom hook
 <br>하나 이상의 Hooks를 조합해서 만든 새로운 Hook. 쉽게 말해 hooks를 포함한 함수
 - API 연동(서버 연동)
+<br>Axios(https://axios-http.com/kr/docs/intro)
+<br>get, post, put, delete
+- React에서 API 호출 과정
+![react-api](/assets/react-api.png)
