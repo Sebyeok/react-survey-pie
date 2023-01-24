@@ -69,4 +69,10 @@ padding: 4px;
 - 컴포넌트 구조 설계 및 구현, 관리. <br>
 ![survey-pie-admin-components_1](/assets/survey-pie-admin-components_1.png)<br>
 ![survey-pie-admin-components_2](/assets/survey-pie-admin-components_2.png)<br>
+- Ant Design(https://ant.design)
+<br>잘 만들어진 UI 라이브러리.
+- useSWR(https://swr.vercel.app/ko)
+<br>API 데이터를 가져오기 위한 React Hooks.<br>
+useSWR 데이터 fetch 전략<br>
+![useSWR](/assets/useSWR.png)<br>
 
