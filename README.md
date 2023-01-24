@@ -36,3 +36,10 @@
 - react-router-dom
 - `npm install react-router-dom --save`<br>
 - styled-components 개념 및 사용법
+```js
+npm install styled-components --save
+const BodyWrapper = styled.div`
+background:aqua;
+padding: 4px;
+`;
+```
