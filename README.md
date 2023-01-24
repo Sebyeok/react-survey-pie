@@ -66,3 +66,7 @@ padding: 4px;
 - react로 구현한 설문조사 관리 페이지.<br>
 ![survey-pie-admin_1](/assets/survey-pie-admin_1.png)<br>
 ![survey-pie-admin_2](/assets/survey-pie-admin_2.png)<br>
+- 컴포넌트 구조 설계 및 구현, 관리. <br>
+![survey-pie-admin-components_1](/assets/survey-pie-admin-components_1.png)<br>
+![survey-pie-admin-components_2](/assets/survey-pie-admin-components_2.png)<br>
+
