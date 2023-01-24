@@ -44,7 +44,7 @@ padding: 4px;
 `;
 ```
 - 전역 상태 관리 Recoil(https://recoiljs.org/ko/)
-<br>atom, selector
+<br>atom, selector, useRecoilValue, useRecoilState
 - Custom hook
 <br>하나 이상의 Hooks를 조합해서 만든 새로운 Hook. 쉽게 말해 hooks를 포함한 함수
 - API 연동(서버 연동)
