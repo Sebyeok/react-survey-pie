@@ -28,11 +28,11 @@
 - localStorage.setItem, localStorage.getItem
 
 ## survey-pie
+- react로 구현한 설문조사 웹.<br>
 ![survey-pie_1](/assets/survey-pie_1.png)<br>
 ![survey-pie_2](/assets/survey-pie_2.png)<br>
-- react로 구현한 설문조사 웹.<br>
+- 컴포넌트 구조 설계 및 구현, 관리.<br>
 ![survey-pie-components](/assets/survey-pie-components.png)<br>
-- 컴포넌트 구조 설계 및 구현, 관리.
 - react-router 
 <br>주소에 맞게 적절한 페이지를 로드하는 것, history 조작을 이용함.
 - react-router-dom(https://reactrouter.com/en/main)
