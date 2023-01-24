@@ -32,14 +32,19 @@
 ![survey-pie_2](/assets/survey-pie_2.png)
 - react로 구현한 설문조사 웹.
 - 컴포넌트 구조 설계 및 구현, 관리.
-- react-router 개념(주소에 맞게 적절한 페이지를 로드하는 것, history 조작을 이용함.) 학습 및 적용.
-- react-router-dom
-- `npm install react-router-dom --save`<br>
-- styled-components 개념 및 사용법
+- react-router 
+<br>주소에 맞게 적절한 페이지를 로드하는 것, history 조작을 이용함.
+- react-router-dom(https://reactrouter.com/en/main)
+<br>BrowserRouter, Routes, Route
+- styled-components(https://styled-components.com/)
 ```js
-npm install styled-components --save
 const BodyWrapper = styled.div`
 background:aqua;
 padding: 4px;
 `;
 ```
+- 전역 상태 관리 Recoil(https://recoiljs.org/ko/)
+<br>atom, selector
+- Custom hook
+<br>하나 이상의 Hooks를 조합해서 만든 새로운 Hook. 쉽게 말해 hooks를 포함한 함수
+- API 연동(서버 연동)
