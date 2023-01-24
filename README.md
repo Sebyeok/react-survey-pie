@@ -28,3 +28,6 @@
 - localStorage.setItem, localStorage.getItem
 
 ## survey-pie
+![survey-pie_1](/assets/survey-pie_1.png)
+![survey-pie_2](/assets/survey-pie_2.png)
+
