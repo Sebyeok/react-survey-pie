@@ -35,4 +35,4 @@
 - react-router 개념(주소에 맞게 적절한 페이지를 로드하는 것, history 조작을 이용함.) 학습 및 적용.
 - react-router-dom
 - `npm install react-router-dom --save`<br>
-- styled-components ㄱㄴ
+- styled-components 개념 및 사용법
