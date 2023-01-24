@@ -61,3 +61,8 @@ padding: 4px;
 <br>`window.location.pathname`
 - react.Suspense
 <br>예외 처리. Suspense 안에 사용하는 데이터가 준비되지 않았을 때 fallback(loading 개념)
+
+## survey-pie-admin
+- react로 구현한 설문조사 관리 페이지.<br>
+![survey-pie-admin_1](/assets/survey-pie-admin_1.png)<br>
+![survey-pie-admin_2](/assets/survey-pie-admin_2.png)<br>
