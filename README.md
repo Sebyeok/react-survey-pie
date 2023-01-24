@@ -32,6 +32,11 @@
 ![survey-pie_2](/assets/survey-pie_2.png)
 - react로 구현한 설문조사 웹.
 - 컴포넌트 구조 설계 및 구현, 관리.
-- react-router 개념(주소에 맞게 적절한 페이지를 로드하는 것, history 조작을 이용함.) 학습 및 적용
-- react-router-dom 이용.
-- `npm install react-router-dom --save` 
+- react-router 개념(주소에 맞게 적절한 페이지를 로드하는 것, history 조작을 이용함.) 학습 및 적용.
+- react-router-dom
+- `npm install react-router-dom --save`
+`<BrowserRouter>`<br>
+ `<Routes>`<br>
+` <Route path="/" element={<PageA/>}</Route>`<br>
+ `</Routes>`<br>
+`</BrowserRouter>`<br>
