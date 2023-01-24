@@ -80,7 +80,7 @@ padding: 4px;
 - Redux(https://ko.redux.js.org/introduction/getting-started/)<br>
 전역 상태 관리 라이브러리.
 ![Redux](/assets/Redux.png)<br>
--Redux의 3가지 원칙<br>
+- Redux의 3가지 원칙<br>
 1. 신뢰 가능한 단일 출처(Single source of truth)<br>
 2. 상태는 읽기 전용(State is read-only)<br>
 3. 리듀서는 순수 함수(Changes are made with pure functions)
