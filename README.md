@@ -6,7 +6,7 @@
 - memo-project
 - survey-pie
 - survey-pie-admin
-- survey-pie와 survey-pie-admin 학습을 위해 미리 만들어진 서버 survey-pie-server(https://github.com/hackurity01/survey-pie-server)
+- <s>survey-pie와 survey-pie-admin 학습을 위해 미리 만들어진 서버 survey-pie-server(https://github.com/hackurity01/survey-pie-server)</s>
 
 ## 학습한 내용❓
 - 실무에서의 개발 과정, 리액트 개발 과정 고민
