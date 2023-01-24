@@ -75,4 +75,6 @@ padding: 4px;
 <br>API 데이터를 가져오기 위한 React Hooks.<br>
 useSWR 데이터 fetch 전략<br>
 ![useSWR](/assets/useSWR.png)<br>
+useSWR Example<br>
+![useSWR-example](/assets/useSWR-example.png)<br>
 
