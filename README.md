@@ -19,6 +19,9 @@
 - Ant Design과 useSWR
 - Redux를 이용한 전역 상태 관리 방법
 
+## React Project Start
+`npx create-react-app my-project`
+
 ## memo-project
 - react로 구현한 간단한 메모장 웹.<br>
 ![memo-project](/assets/memo-project.png)
